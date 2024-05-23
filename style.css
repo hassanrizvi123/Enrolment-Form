@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: #E0E2DB;
+}
+
+
+input {
+    border-radius: 30px;
+    height: 25px;
+    width: 30%;
+    border: none;
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+h1 {
+    margin-bottom: 50px;
+    font-size: 48px;
+}
+
+#btn {
+    width: 70px;
+    height: 30px;
+}
+
+label {
+    margin-top: 50px;
+    padding-right: 10px;
+}
+#outputwindow{
+
+    padding-left: 15px;
+    font-size:25px ;
+    
+}
